@@ -10,22 +10,6 @@ I am eager to learn more about your organization and the challenges you face in 
 
 Thank you for your time and consideration.
 
-## Social media
-[LinkedIn](https://www.linkedin.com/in/robert-feliz/)
-
-
-### Projects
-
-| Project |  |
-|-----|-----------|
-|   [Security audit](https://tinyurl.com/security-auditoria)      | conducted an internal security audit to help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities to protect an organization’s business continuity and critical assets |
-|     Next project |  Details   |
-|     Next project |  Details   |
-|     Next project |  Details   |
-|     Next project |  Details   |
-|     Next project |  Details   |
-
-
 | Strengths |  |
 |-----:|-----------|
 |     Technical | strong understanding of computer networks, operating systems, and programming languages |
@@ -33,20 +17,30 @@ Thank you for your time and consideration.
 |     Attention to detail | Ability to carefully monitor computer systems and networks for signs of malicious activity       |
 |     Communication | Ability to communicate effectively with technical and non-technical audiences    |
 
-
 | Core Values |  |
 |-----:|-----------|
 |     Innovation | Being creative and innovative in my approach to security |
 |     Integrity |  Honest and trustworthy, committed to protecting the confidentiality, integrity, and availability of information   |
 
+### Projects
+
+| Project |  |
+|-----|-----------|
+|   [Internal security audit](https://drive.google.com/drive/folders/11MxMBE84hddUFoZe06goHSeIodAXD_Wz?usp=sharing)    | conducted an internal security audit to help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities to protect an organization’s business continuity and critical assets|
+|     Next project |  Details   |
+|     Next project |  Details   |
+|     Next project |  Details   |
+|     Next project |  Details   |
+|     Next project |  Details   |
+
 
 ### Certifications
 | Provider | Certification |
 |-----:|-----------|
-|     Cisco| Cisco Certified Network Assicoate|
-|     (ISC)2| Certified in Cybersecurity   |
-|     AWS| Cloud Associate        |
-|     Microsoft| MTA Security Fundamentals    |
+|     (ISC)2| [Certified in Cybersecurity](https://www.credly.com/badges/bbb8cabb-1f20-4def-82f7-145f4e346386/public_url)   |
+|     Microsoft| [MTA Security Fundamentals](https://www.credly.com/badges/f087cd17-be54-497d-a8c2-c7c0481c9031/public_url)    |
+|     AWS| [Certified Cloud Pratitioner](https://www.credly.com/badges/fa4eadd4-c930-4ec9-ab45-280f8ea4e51b/public_url)      |
+|     Cisco| [Cisco Certified Network Associate](https://www.credly.com/badges/2a142bff-e2d9-467f-8b87-cf1c572098f9/public_url)  |
 
   
 ### Top languages
@@ -56,4 +50,8 @@ Thank you for your time and consideration.
 |     2| SQL   |
 |     3| Javascript        |
 
+## Contact me
+[LinkedIn](https://www.linkedin.com/in/robert-feliz/) 
+
+feliz.robert@gmail.com
 
