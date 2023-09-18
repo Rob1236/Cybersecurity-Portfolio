@@ -50,7 +50,7 @@ Thank you for your time and consideration.
 |     2| SQL   |
 |     3| Javascript        |
 
-## Contact me
+### Contact me
 [LinkedIn](https://www.linkedin.com/in/robert-feliz/) 
 
 feliz.robert@gmail.com
