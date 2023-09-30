@@ -12,21 +12,21 @@ Thank you for your time and consideration.
 
 | Strengths |  |
 |-----:|-----------|
-|     Technical | strong understanding of computer networks, operating systems, and programming languages |
-|     Problem-solving |  Ability to think critically and creatively to find solutions to complex problems   |
-|     Attention to detail | Ability to carefully monitor computer systems and networks for signs of malicious activity       |
-|     Communication | Ability to communicate effectively with technical and non-technical audiences    |
+|     Technical | strong understanding of computer networks, operating systems, and programming languages. |
+|     Problem-solving |  Ability to think critically and creatively to find solutions to complex problems.   |
+|     Attention to detail | Ability to carefully monitor computer systems and networks for signs of malicious activity.       |
+|     Communication | Ability to communicate effectively with technical and non-technical audiences.    |
 
 | Core Values |  |
 |-----:|-----------|
-|     Innovation | Being creative and innovative in my approach to security |
-|     Integrity |  Honest and trustworthy, committed to protecting the confidentiality, integrity, and availability of information   |
+|     Innovation | Being creative and innovative in my approach to security. |
+|     Integrity |  Honest and trustworthy, committed to protecting the confidentiality, integrity, and availability of information.   |
 
 ### Projects
 
 | Project |  |
 |-----|-----------|
-|   [Internal security audit](https://drive.google.com/drive/folders/11MxMBE84hddUFoZe06goHSeIodAXD_Wz?usp=sharing)    | Conducted a fictional internal security audit to help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities to protect an organization’s business continuity and critical assets|
+|   [Internal security audit](https://drive.google.com/drive/folders/11MxMBE84hddUFoZe06goHSeIodAXD_Wz?usp=sharing)    | Conducted a fictional internal security audit to help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities to protect an organization’s business continuity and critical assets.|
 |     Next project |  Details   |
 |     Next project |  Details   |
 |     Next project |  Details   |
