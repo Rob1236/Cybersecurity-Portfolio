@@ -27,7 +27,7 @@ Thank you for your time and consideration.
 | Project |  |
 |-----|-----------|
 |   [Internal security audit](https://drive.google.com/drive/folders/11MxMBE84hddUFoZe06goHSeIodAXD_Wz?usp=sharing)    | Conducted a fictional internal security audit to help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities to protect an organization’s business continuity and critical assets.|
-|     Next project |  Details   |
+|     [NIST CSF Analysis](https://drive.google.com/drive/folders/17-c71JZsSXflnd5z-kLaAi1ni56diTRU?usp=drive_link) |  Incident report analysis scenario of an ICMP DDOS attack on a fictitious multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses - using NIST Cybersecurity Framework   |
 |     Next project |  Details   |
 |     Next project |  Details   |
 |     Next project |  Details   |
