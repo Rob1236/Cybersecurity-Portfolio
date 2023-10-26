@@ -43,12 +43,12 @@ Thank you for your time and consideration.
 |     Cisco| [Cisco Certified Network Associate](https://www.credly.com/badges/2a142bff-e2d9-467f-8b87-cf1c572098f9/public_url)  |
 
   
-### Top languages
-| Rank | Languages |
+### Top skills
+| Rank | Skill |
 |-----:|-----------|
-|     1| Python|
-|     2| SQL   |
-|     3| Javascript        |
+|     1| Linux |
+|     2| Python   |
+|     3| SQL        |
 
 ### Contact me
 [LinkedIn](https://www.linkedin.com/in/robert-feliz/) 
