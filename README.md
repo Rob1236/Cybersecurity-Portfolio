@@ -28,7 +28,7 @@ Thank you for your time and consideration.
 |-----|-----------|
 |   [Internal security audit](https://drive.google.com/drive/folders/11MxMBE84hddUFoZe06goHSeIodAXD_Wz?usp=sharing)    | Conducted a fictional internal security audit to help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities to protect an organization’s business continuity and critical assets.|
 |     [NIST CSF Analysis](https://drive.google.com/drive/folders/17-c71JZsSXflnd5z-kLaAi1ni56diTRU?usp=drive_link) |  Incident report analysis scenario of an ICMP DDOS attack on a fictitious multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses - using NIST Cybersecurity Framework   |
-|     Next project |  Details   |
+|     [File Permissions in Linux](https://drive.google.com/drive/folders/1lwjdxdxJ1T2dPvIVEraZV0IunIaC3lz2?usp=share_link) |  Identify, modify and verify a directory's permissions to adhere to a company's security policy, and making a system's data more secure   |
 |     Next project |  Details   |
 |     Next project |  Details   |
 |     Next project |  Details   |
