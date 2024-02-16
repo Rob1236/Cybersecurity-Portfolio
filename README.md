@@ -30,7 +30,7 @@ Thank you for your time and consideration.
 |     [NIST CSF Analysis](https://drive.google.com/drive/folders/17-c71JZsSXflnd5z-kLaAi1ni56diTRU?usp=drive_link) |  Incident report analysis scenario of an ICMP DDOS attack on a fictitious multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses - using NIST Cybersecurity Framework   |
 |     [File Permissions in Linux](https://drive.google.com/drive/folders/1lwjdxdxJ1T2dPvIVEraZV0IunIaC3lz2?usp=share_link) |  Utilized Linux commands to Identify, modify and verify a directory's permissions to adhere to a company's security policy, and making a system's data more secure   |
 |     [Apply Filters to SQL Queries](https://drive.google.com/drive/folders/1Gsv248J2Xjsl8v2W52bUdVB8RDnp5uiY?usp=drive_link) |  I applied filters to SQL queries to get specific information on login attempts and employee machines   |
-|     Next project |  Details   |
+|     [Scenario: Analyze a vulnerable system for a small business](https://drive.google.com/drive/folders/14SbZaZFzIc2QboXWuM2UoKqdlKx8ApDU?usp=drive_link) |  Conducted a vulnerability analysis and report on a vlnerable database server open to the public   |
 |     Next project |  Details   |
 
 
